@@ -1,5 +1,5 @@
 # Machice-Learning
-InShaAllah, we (Sajjad and [Mashuk](https://github.com/merajmasuk)) are trying to learn Machine Learning from very beginning... Ok...
+InShaAllah, we (Sajjad and [Masuk](https://github.com/merajmasuk)) are trying to learn Machine Learning from very beginning... Ok...
 
 <hr>
 
